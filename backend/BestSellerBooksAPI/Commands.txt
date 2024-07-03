@@ -1,0 +1,23 @@
+# To create solutions
+> dotnet new sln <Solution Name>
+> cd <Solution Name>
+
+# To create class library to be downloaded as a package
+> dotnet new classlib -o <Library Name>
+
+# Create a webapi project
+> dotnet new webapi -o <Project Name> -controllers
+
+# Add the project files into the solution.
+> dotnet sln add .\<Library Name> .\<Project Name>
+(another way, but didn't work for me)> dotnet sln add (ls -r **/*.csproj)
+
+# We can now build our solution
+> dotnet buid
+
+# But, we can't still run our project:
+# To run the projects we specify the project name with option --project
+> dotnet run --project <Project Name>
+
+# Adding a project reference so that the contract library is found on the project
+> dotnet add <Project Name> reference <Library Name>

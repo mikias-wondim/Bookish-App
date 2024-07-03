@@ -1,0 +1,11 @@
+C:\Users\tades\Desktop\dotnet-apps\BestSellerBooksAPI\BestSellerBooks.Contract\bin\Debug\net8.0\BestSellerBooks.Contract.deps.json
+C:\Users\tades\Desktop\dotnet-apps\BestSellerBooksAPI\BestSellerBooks.Contract\bin\Debug\net8.0\BestSellerBooks.Contract.dll
+C:\Users\tades\Desktop\dotnet-apps\BestSellerBooksAPI\BestSellerBooks.Contract\bin\Debug\net8.0\BestSellerBooks.Contract.pdb
+C:\Users\tades\Desktop\dotnet-apps\BestSellerBooksAPI\BestSellerBooks.Contract\obj\Debug\net8.0\BestSellerBooks.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tades\Desktop\dotnet-apps\BestSellerBooksAPI\BestSellerBooks.Contract\obj\Debug\net8.0\BestSellerBooks.Contract.AssemblyInfoInputs.cache
+C:\Users\tades\Desktop\dotnet-apps\BestSellerBooksAPI\BestSellerBooks.Contract\obj\Debug\net8.0\BestSellerBooks.Contract.AssemblyInfo.cs
+C:\Users\tades\Desktop\dotnet-apps\BestSellerBooksAPI\BestSellerBooks.Contract\obj\Debug\net8.0\BestSellerBooks.Contract.csproj.CoreCompileInputs.cache
+C:\Users\tades\Desktop\dotnet-apps\BestSellerBooksAPI\BestSellerBooks.Contract\obj\Debug\net8.0\BestSellerBooks.Contract.dll
+C:\Users\tades\Desktop\dotnet-apps\BestSellerBooksAPI\BestSellerBooks.Contract\obj\Debug\net8.0\refint\BestSellerBooks.Contract.dll
+C:\Users\tades\Desktop\dotnet-apps\BestSellerBooksAPI\BestSellerBooks.Contract\obj\Debug\net8.0\BestSellerBooks.Contract.pdb
+C:\Users\tades\Desktop\dotnet-apps\BestSellerBooksAPI\BestSellerBooks.Contract\obj\Debug\net8.0\ref\BestSellerBooks.Contract.dll
